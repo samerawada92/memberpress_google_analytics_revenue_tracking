@@ -1,6 +1,6 @@
 # memberpress_google_analytics_revenue_tracking
 Track MemberPress Revenue in Google Analytics
-<h3>1. Copy & pasete the code inside the php file into your functions.php.</h3>
+<h3>1. Copy & paste the code inside the php file into your functions.php.</h3>
 
 <h3>2. Create your custom event in google analytics.</h3>
 <p>Copy and paste the required fields "ec" for the category & "ea" for your Action.</p>
