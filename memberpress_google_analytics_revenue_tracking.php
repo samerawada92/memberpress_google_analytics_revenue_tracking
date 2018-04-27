@@ -10,8 +10,8 @@ function trackPurchase($txn){
 	$x  =   [   
         'v'=>'1',
         't'=>'event',
-        'tid'=>'UA-116959377-1', 
-        'cid'=>'62f43561-72bd-438a-a16e-7b8e054e5c0c',
+        'tid'=>'XX-XXXXXXXX-X', 
+        'cid'=>'',
         'ec'=>'Revenue',
         'ea' => 'Transaction',
         'el' => $product,
