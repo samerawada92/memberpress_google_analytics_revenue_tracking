@@ -17,5 +17,5 @@ Track MemberPress Revenue in Google Analytics
   <li>'ev' => $amount</li>
 </ul>
 
-<h3>4. Create your cid</h3>.
+<h3>4. Create your cid</h3>
 <p>Not sure if this is necessary but I would create one using <a rel="nofollow" target="_blank" href="https://ga-dev-tools.appspot.com/hit-builder/"/>this link</a>. You can also use the link to create your event and test it.</p>
